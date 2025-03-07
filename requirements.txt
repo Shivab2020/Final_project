@@ -1,0 +1,17 @@
+faster-whisper==1.0.2
+groq==0.6.0
+# openai==1.20.1
+google-generativeai==0.5.4
+opencv_python==4.9.0.80
+Pillow==10.3.0
+Pyaudio==0.2.14
+# SpeechRecongnition==3.10.0
+pyperclip==1.8.2
+twilio==8.10.0
+Flask==3.0.0
+psycopg2-binary==2.9.9
+python-dotenv==1.0.0
+
+
+# groq api - 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
+# google ai dev - AIzaSyCedDzjEnI6hj1f8Nszm-l8z-o5rO7XCxg

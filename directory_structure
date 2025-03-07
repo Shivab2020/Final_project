@@ -1,0 +1,8 @@
+ayra2/
+├── templates/
+│   └── dashboard.html
+├── static/
+│   └── dashboard.js
+├── ayra1.py
+├── schema.sql
+└── .env 
